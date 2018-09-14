@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .router-link-active {
+            color: red
+        }
+    </style>
+</head>
+<body>
+    
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="https://unpkg.com/vue-router/dist/vue-router.js"></script>
+
+<div id="app">
+    <h1>HELLO APP!</h1>
+    <p>
+        <!-- 使用router-link来实现导航 -->
+        <!-- to属性指定导航路径 -->
+        <!-- 默认渲染成A标签 对应路由匹配成功时，自动设置class属性值 .router-link-active -->
+        <!-- tag属性指定渲染后的标签 -->
+        <!-- .active-class属性指定匹配成功后设置的class名称 -->
+        <router-link to='/foo'>GO to foo</router-link>
+        <router-link to='/bar'>GO to bar</router-link>
+    </p>
+    <!-- 路由出口 -->
+    <router-view></router-view>
+</div>
+<script>
+    const Foo = { template: '<div>foo</div>' }
+    const Bar = { template: '<div>bar</div>' }
+
+    const routers = [
+        { path: '/', component: Foo },
+        { path: '/foo', component: Foo },
+        { path: '/bar', component: Bar }
+    ]
+    
+    const router = new VueRouter({
+        routes:routers
+    })
+
+    const app = new Vue({
+        router
+    }).$mount('#app')
+    // const app = new Vue({
+    //     el: '#app',
+    //     router,
+    // })
+</script>
+</body>
+</html>

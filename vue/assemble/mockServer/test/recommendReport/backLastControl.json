@@ -1,0 +1,29 @@
+{
+  "prm": {
+   "resumeId": 10087649,
+   "resumeOwner": "无",
+   "resumeOwnerId": "100005887",
+   "resumeWorkflowId": "10070",
+   "resumeWorkflow": "有效推荐",
+   "offerData": {},
+   "InterviewData": {},
+   "resumeCollect": {},
+   "onProtect": false,
+   "hasReport": false,
+   "personlocate": "江苏",
+   "personage": 36,
+   "personworkYears": 11,
+   "personcompany": "",
+   "personduty": "",
+   "personEducation": "80",
+   "personName": "周沫",
+   "personSex": "女",
+   "resumeLastUpdator": "无",
+   "resumeLastUpdatorId": 100005887,
+   "resumeLastUpdatime": "2018-06-01 11:07:04",
+   "isSameMasterCompany": "1",
+   "isSameOwnerCompany": "1",
+   "ownerCompanyName": "湖南牛逼猎头公司（测试专用）"
+  },
+  "status": "success"
+ }

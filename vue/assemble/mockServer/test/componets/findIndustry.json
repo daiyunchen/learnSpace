@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "fieldName": "互联网·游戏·软件",
+      "fieldId": 192,
+      "childIndustry": [
+        { "fieldName": "互联网/移动互联网/电子商务", "fieldId": 193 },
+        { "fieldName": "网络游戏", "fieldId": 438 },
+        { "fieldName": "计算机软件", "fieldId": 683 },
+        { "fieldName": "IT服务/系统集成", "fieldId": 928 }
+      ]
+    },
+    {
+      "fieldName": "电子·通信·硬件",
+      "fieldId": 1173,
+      "childIndustry": [
+        { "fieldName": "电子技术/半导体/集成电路", "fieldId": 1174 },
+        { "fieldName": "通信(设备/运营/增值)", "fieldId": 1386 },
+        { "fieldName": "计算机硬件/网络设备", "fieldId": 1550 }
+      ]
+    },
+    {
+      "fieldName": "房地产·建筑·物业",
+      "fieldId": 1705,
+      "childIndustry": [
+        { "fieldName": "房地产开发/建筑/建材/工程", "fieldId": 1706 },
+        { "fieldName": "规划/设计/装潢", "fieldId": 1914 },
+        { "fieldName": "房地产服务(物业管理/地产经纪)", "fieldId": 2105 }
+      ]
+    },
+    {
+      "fieldName": "金融",
+      "fieldId": 2269,
+      "childIndustry": [
+        { "fieldName": "银行", "fieldId": 2270 },
+        { "fieldName": "保险", "fieldId": 2448 },
+        { "fieldName": "基金/证券/期货/投资", "fieldId": 2614 },
+        { "fieldName": "会计/审计", "fieldId": 2788 },
+        { "fieldName": "信托/担保/拍卖/典当", "fieldId": 2939 }
+      ]
+    },
+    {
+      "fieldName": "消费品",
+      "fieldId": 3097,
+      "childIndustry": [
+        { "fieldName": "食品/饮料/烟酒/日化", "fieldId": 3098 },
+        { "fieldName": "百货/批发/零售", "fieldId": 3279 },
+        { "fieldName": "服装服饰/纺织/皮革", "fieldId": 3434 },
+        { "fieldName": "家具/家电", "fieldId": 3624 },
+        { "fieldName": "办公用品及设备", "fieldId": 3805 },
+        { "fieldName": "奢侈品/收藏品", "fieldId": 3986 },
+        { "fieldName": "工艺品/珠宝/玩具", "fieldId": 4167 }
+      ]
+    },
+    {
+      "fieldName": "汽车·机械·制造",
+      "fieldId": 4348,
+      "childIndustry": [
+        { "fieldName": "汽车/摩托车", "fieldId": 4349 },
+        { "fieldName": "机械制造/机电/重工", "fieldId": 4549 },
+        { "fieldName": "印刷/包装/造纸", "fieldId": 4765 },
+        { "fieldName": "原材料及加工", "fieldId": 4946 },
+        { "fieldName": "仪器/仪表/工业自动化/电气", "fieldId": 5127 }
+      ]
+    },
+    {
+      "fieldName": "服务·外包·中介",
+      "fieldId": 5374,
+      "childIndustry": [
+        { "fieldName": "专业服务(咨询/财会/法律/翻译等)", "fieldId": 5375 },
+        { "fieldName": "中介服务", "fieldId": 5549 },
+        { "fieldName": "外包服务", "fieldId": 5706 },
+        { "fieldName": "检测/认证", "fieldId": 5857 },
+        { "fieldName": "旅游/酒店/餐饮服务/生活服务", "fieldId": 6020 },
+        { "fieldName": "娱乐/休闲/体育", "fieldId": 6194 },
+        { "fieldName": "租赁服务", "fieldId": 6357 }
+      ]
+    },
+    {
+      "fieldName": "广告·传媒·教育·文化",
+      "fieldId": 6521,
+      "childIndustry": [
+        { "fieldName": "广告/公关/市场推广/会展", "fieldId": 6522 },
+        { "fieldName": "影视/媒体/艺术/文化/出版", "fieldId": 6688 },
+        { "fieldName": "教育/培训/学术/科研/院校", "fieldId": 6883 }
+      ]
+    },
+    {
+      "fieldName": "交通·贸易·物流",
+      "fieldId": 7055,
+      "childIndustry": [
+        { "fieldName": "交通/物流/运输", "fieldId": 7056 },
+        { "fieldName": "贸易/进出口", "fieldId": 7231 },
+        { "fieldName": "航空/航天", "fieldId": 7397 }
+      ]
+    },
+    {
+      "fieldName": "制药·医疗",
+      "fieldId": 7591,
+      "childIndustry": [
+        { "fieldName": "制药/生物工程", "fieldId": 7592 },
+        { "fieldName": "医疗/保健/美容/卫生服务", "fieldId": 7795 },
+        { "fieldName": "医疗设备/器械", "fieldId": 7970 }
+      ]
+    },
+    {
+      "fieldName": "能源·化工·环保",
+      "fieldId": 8173,
+      "childIndustry": [
+        { "fieldName": "能源(电力/水利)", "fieldId": 8174 },
+        { "fieldName": "石油/石化/化工", "fieldId": 8337 },
+        { "fieldName": "采掘/冶炼/矿产", "fieldId": 8527 },
+        { "fieldName": "环保", "fieldId": 8690 },
+        { "fieldName": "新能源", "fieldId": 8850 }
+      ]
+    },
+    {
+      "fieldName": "政府·农林牧渔",
+      "fieldId": 9013,
+      "childIndustry": [
+        { "fieldName": "政府/公共事业/非营利机构", "fieldId": 9014 },
+        { "fieldName": "农/林/牧/渔", "fieldId": 9170 },
+        { "fieldName": "其他", "fieldId": 9326 }
+      ]
+    }
+  ],
+  "status": "success"
+}

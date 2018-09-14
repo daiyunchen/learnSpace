@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": "1",
+      "name": "iphone3",
+      "price": 802,
+      "count": 200
+    },
+    {
+      "id": "2",
+      "name": "iphone4",
+      "price": 8202,
+      "count": 200
+    },
+    {
+      "id": "3",
+      "name": "iphone5",
+      "price": 8102,
+      "count": 200
+    },
+    {
+      "id": "4",
+      "name": "iphone6",
+      "price": 202,
+      "count": 200
+    },
+    {
+      "id": "5",
+      "name": "iphone7",
+      "price": 102,
+      "count": 200
+    }
+  ]
+}

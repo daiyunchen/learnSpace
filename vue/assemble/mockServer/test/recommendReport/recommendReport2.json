@@ -1,0 +1,76 @@
+{
+  "isPCreator": true,
+  "isOprator": true,
+  "hasReport": false,
+  "projectName": "1312",
+  "customerName": "湖南牛逼猎头公司（测试专用）",
+  "tempInfo": {
+    "reportNameTemp": "7001,7002,7004,7006,7005",
+    "basicInfoTemp": "2001,2002,2009,2007"
+  },
+  "reportInfo": {
+    "projectId": "bcf7f21c00584c83916a2ddbc0157d82",
+    "resumeId": "10682629",
+    "reportName": "2018.05.24-贺兆龙-1312-湖南牛逼猎头公司（测试专用）-无",
+    "basicInfo": {
+      "personName": "贺兆龙",
+      "personSex": "男",
+      "personBirthday": "2018-05-24",
+      "personMarriage": "未婚",
+      "personLocate": "",
+      "hopeLocate": "",
+      "personSalary": "",
+      "hopeSalary": "",
+      "personEducation": "100",
+      "personWorkYears": 0,
+      "personIndustry": "",
+      "personDuty": "公关专员/助理"
+    },
+    "headHunter": {
+      "interviewer": "无",
+      "interviewEvaluation": ""
+    },
+    "educationInfo": {
+      "date": ["."],
+      "school": [""],
+      "speciality": [""],
+      "Education": [""]
+    },
+    "projectInfo": {
+      "projectName": [],
+      "date": [],
+      "projectDescription": [],
+      "projectTitle": [],
+      "projectResponsibilities": []
+    },
+    "workInfo": {
+      "date": ["2018-04.至今"],
+      "company": ["北京五八信息技术有限公司"],
+      "vocation": ["企划部"],
+      "title": ["4S店管理"],
+      "leader": ["刘强东"],
+      "underlingNumber": ["1"],
+      "summary": [""],
+      "workSize": ["20人以下"],
+      "workType": ["国企"],
+      "workVocation": [""],
+      "workLocation": ["北京"],
+      "workSalary": ["30"]
+    },
+    "personCertificate": {
+      "personCertificate": ""
+    },
+    "personSkill": {},
+    "personEvaluation": {
+      "personEvaluation": ""
+    },
+    "personLanguageSkill": {
+      "personLanguageSkill": ""
+    },
+    "reportId": "9d47701706e74c24852f87ebb3685087",
+    "personTel": "13545115720",
+    "personEmail": "13545115720"
+  },
+  "isVisitor": false,
+  "status": "success"
+}

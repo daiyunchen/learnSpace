@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vue.js</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        li {
+            list-style: none
+        }
+        .bgRed {
+            background-color: red
+        }
+        .bgBlue {
+            background-color: blue
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app">
+        <ul class="wrap">
+            <li v-for="(item, index) of bookList" :key="item.name" :class="{bgRed: item.hasBg}" :style="style">{{item.name}}</li>
+        </ul>
+    </div>
+    <script>
+        var app = new Vue({
+            el: document.getElementById('app'),
+            data() {
+                return {
+                    bookList: [{ name: 'JavaScript', hasBg: true }, { name: 'node.js' }, { name: 'CSS' }, { name: 'vue.js' }],
+                    style: {
+                        width: '200px',
+                        height: '100px',
+                        border: '1px solid #333',
+                        marginBottom: '10px'
+                    }
+                }
+            }
+        })
+    </script>
+</body>
+
+</html>

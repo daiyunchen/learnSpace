@@ -1,0 +1,85 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "flowStatusPid": "10010",
+      "flowStatus": "10040",
+      "flowStatusName": "寻访.不通过",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-14 13:22:34",
+      "note": "1",
+      "isFaild": false
+    },
+    {
+      "flowStatusPid": "10050",
+      "flowStatus": "10050",
+      "flowStatusName": "简历推荐",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-16 10:59:19",
+      "note": "11",
+      "isFaild": true
+    },
+    {
+      "flowStatusPid": "10070",
+      "flowStatus": "10070",
+      "flowStatusName": "有效推荐",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-16 10:59:45",
+      "note": "&#92;n",
+      "isFaild": true
+    },
+    {
+      "flowStatusPid": "10110",
+      "flowStatus": "10110",
+      "flowStatusName": "客户面试",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-16 11:00:17",
+      "note": "1",
+      "isFaild": true
+    },
+    {
+      "flowStatusPid": "10110",
+      "flowStatus": "10120",
+      "flowStatusName": "客户面试.面试通过",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-16 11:00:30",
+      "note": "1",
+      "isFaild": true
+    },
+    {
+      "flowStatusPid": "10170",
+      "flowStatus": "10170",
+      "flowStatusName": "谈薪",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-16 11:00:43",
+      "note": "1",
+      "isFaild": true
+    },
+    {
+      "flowStatusPid": "10210",
+      "flowStatus": "10210",
+      "flowStatusName": "offer",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-16 11:01:32",
+      "note": "1",
+      "isFaild": true
+    },
+    {
+      "flowStatusPid": "10250",
+      "flowStatus": "10250",
+      "flowStatusName": "入职",
+      "creator": "100005887",
+      "creatorName": "无",
+      "updateTime": "2018-05-16 11:02:09",
+      "note": "1",
+      "isFaild": true
+    }
+  ]
+}

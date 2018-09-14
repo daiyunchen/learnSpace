@@ -1,0 +1,13 @@
+{
+  "status": "success",
+  "data": {
+    "flowStatusPid": "10250",
+    "flowStatus": "10250",
+    "flowStatusName": "入职",
+    "creator": "100005887",
+    "creatorName": "无",
+    "updateTime": "2018-05-25 17:05:29",
+    "note": "xxxxx",
+    "isFaild": true
+  }
+}

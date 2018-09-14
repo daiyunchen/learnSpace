@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" type="text/css" href="style.css"></link>
+</head>
+<body>
+  <div id="app" v-cloak>
+    <template v-if="list.length">
+      <div class="tab-head">
+        <div class="check checkAll"></div>
+        <div class="com-name">商品名称</div>
+        <div class="com-price">商品价格</div>
+        <div class="com-count">商品数量</div>
+        <div class="handle">操作</div>
+      </div>
+      <div class="ta-body"></div>
+    </template>
+    <div v-else>购物车为空</div>
+  </div>
+<script src="https://unpkg.com/vue/dist/vue.js"></script>
+<script src="index.js"></script>
+</body>
+</html>

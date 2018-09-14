@@ -1,0 +1,4905 @@
+{
+  "jsonResult": [
+    {
+      "id_path": "20492",
+      "id": "20488",
+      "name_path": "北京",
+      "name": "北京",
+      "pid": "-2",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20491",
+      "id": "20489",
+      "name_path": "上海",
+      "name": "上海",
+      "pid": "-2",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20490",
+      "id": "20491",
+      "name_path": "天津",
+      "name": "天津",
+      "pid": "-2",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20489",
+      "id": "20490",
+      "name_path": "重庆",
+      "name": "重庆",
+      "pid": "-2",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001",
+      "id": "20001",
+      "name_path": "广东",
+      "name": "广东",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002",
+      "id": "20002",
+      "name_path": "江苏",
+      "name": "江苏",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003",
+      "id": "20003",
+      "name_path": "浙江",
+      "name": "浙江",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004",
+      "id": "20004",
+      "name_path": "安徽",
+      "name": "安徽",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005",
+      "id": "20005",
+      "name_path": "福建",
+      "name": "福建",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006",
+      "id": "20006",
+      "name_path": "甘肃",
+      "name": "甘肃",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007",
+      "id": "20007",
+      "name_path": "广西",
+      "name": "广西",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008",
+      "id": "20008",
+      "name_path": "贵州",
+      "name": "贵州",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009",
+      "id": "20009",
+      "name_path": "海南",
+      "name": "海南",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010",
+      "id": "20010",
+      "name_path": "河北",
+      "name": "河北",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011",
+      "id": "20011",
+      "name_path": "河南",
+      "name": "河南",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012",
+      "id": "20012",
+      "name_path": "黑龙江",
+      "name": "黑龙江",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013",
+      "id": "20013",
+      "name_path": "湖北",
+      "name": "湖北",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014",
+      "id": "20014",
+      "name_path": "湖南",
+      "name": "湖南",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015",
+      "id": "20015",
+      "name_path": "吉林",
+      "name": "吉林",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016",
+      "id": "20016",
+      "name_path": "江西",
+      "name": "江西",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017",
+      "id": "20017",
+      "name_path": "辽宁",
+      "name": "辽宁",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018",
+      "id": "20018",
+      "name_path": "内蒙古",
+      "name": "内蒙古",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20019",
+      "id": "20019",
+      "name_path": "宁夏",
+      "name": "宁夏",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020",
+      "id": "20020",
+      "name_path": "青海",
+      "name": "青海",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021",
+      "id": "20021",
+      "name_path": "山东",
+      "name": "山东",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022",
+      "id": "20022",
+      "name_path": "山西",
+      "name": "山西",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023",
+      "id": "20023",
+      "name_path": "陕西",
+      "name": "陕西",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024",
+      "id": "20024",
+      "name_path": "四川",
+      "name": "四川",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025",
+      "id": "20025",
+      "name_path": "西藏",
+      "name": "西藏",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026",
+      "id": "20026",
+      "name_path": "新疆",
+      "name": "新疆",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027",
+      "id": "20027",
+      "name_path": "云南",
+      "name": "云南",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20028",
+      "id": "20028",
+      "name_path": "广东-广州",
+      "name": "广州",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20029",
+      "id": "20029",
+      "name_path": "广东-潮州",
+      "name": "潮州",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20030",
+      "id": "20030",
+      "name_path": "广东-东莞",
+      "name": "东莞",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20031",
+      "id": "20031",
+      "name_path": "广东-佛山",
+      "name": "佛山",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20032",
+      "id": "20032",
+      "name_path": "广东-惠州",
+      "name": "惠州",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20033",
+      "id": "20033",
+      "name_path": "广东-清远",
+      "name": "清远",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20034",
+      "id": "20034",
+      "name_path": "广东-汕头",
+      "name": "汕头",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20035",
+      "id": "20035",
+      "name_path": "广东-深圳",
+      "name": "深圳",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20036",
+      "id": "20036",
+      "name_path": "广东-顺德",
+      "name": "顺德",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20037",
+      "id": "20037",
+      "name_path": "广东-湛江",
+      "name": "湛江",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20038",
+      "id": "20038",
+      "name_path": "广东-肇庆",
+      "name": "肇庆",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20039",
+      "id": "20039",
+      "name_path": "广东-中山",
+      "name": "中山",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20040",
+      "id": "20040",
+      "name_path": "广东-珠海",
+      "name": "珠海",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20041",
+      "id": "20041",
+      "name_path": "广东-江门",
+      "name": "江门",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20042",
+      "id": "20042",
+      "name_path": "广东-阳江",
+      "name": "阳江",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20043",
+      "id": "20043",
+      "name_path": "广东-韶关",
+      "name": "韶关",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20044",
+      "id": "20044",
+      "name_path": "广东-茂名",
+      "name": "茂名",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20045",
+      "id": "20045",
+      "name_path": "广东-梅州",
+      "name": "梅州",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20046",
+      "id": "20046",
+      "name_path": "广东-汕尾",
+      "name": "汕尾",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20047",
+      "id": "20047",
+      "name_path": "广东-河源",
+      "name": "河源",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20048",
+      "id": "20048",
+      "name_path": "广东-揭阳",
+      "name": "揭阳",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20049",
+      "id": "20049",
+      "name_path": "广东-云浮",
+      "name": "云浮",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20050",
+      "id": "20050",
+      "name_path": "广东-开平",
+      "name": "开平",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20051",
+      "id": "20051",
+      "name_path": "广东-台山",
+      "name": "台山",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20052",
+      "id": "20052",
+      "name_path": "广东-普宁",
+      "name": "普宁",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20053",
+      "id": "20053",
+      "name_path": "广东-南沙",
+      "name": "南沙",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20054",
+      "id": "20054",
+      "name_path": "广东-龙川",
+      "name": "龙川",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20001.20055",
+      "id": "20055",
+      "name_path": "广东-鹤山",
+      "name": "鹤山",
+      "pid": "20001",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20056",
+      "id": "20056",
+      "name_path": "江苏-南京",
+      "name": "南京",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20057",
+      "id": "20057",
+      "name_path": "江苏-常熟",
+      "name": "常熟",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20058",
+      "id": "20058",
+      "name_path": "江苏-常州",
+      "name": "常州",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20059",
+      "id": "20059",
+      "name_path": "江苏-昆山",
+      "name": "昆山",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20060",
+      "id": "20060",
+      "name_path": "江苏-连云港",
+      "name": "连云港",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20061",
+      "id": "20061",
+      "name_path": "江苏-南通",
+      "name": "南通",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20062",
+      "id": "20062",
+      "name_path": "江苏-苏州",
+      "name": "苏州",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20063",
+      "id": "20063",
+      "name_path": "江苏-太仓",
+      "name": "太仓",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20064",
+      "id": "20064",
+      "name_path": "江苏-无锡",
+      "name": "无锡",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20065",
+      "id": "20065",
+      "name_path": "江苏-徐州",
+      "name": "徐州",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20066",
+      "id": "20066",
+      "name_path": "江苏-扬州",
+      "name": "扬州",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20067",
+      "id": "20067",
+      "name_path": "江苏-镇江",
+      "name": "镇江",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20068",
+      "id": "20068",
+      "name_path": "江苏-淮安",
+      "name": "淮安",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20069",
+      "id": "20069",
+      "name_path": "江苏-盐城",
+      "name": "盐城",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20070",
+      "id": "20070",
+      "name_path": "江苏-泰州",
+      "name": "泰州",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20071",
+      "id": "20071",
+      "name_path": "江苏-宿迁",
+      "name": "宿迁",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20072",
+      "id": "20072",
+      "name_path": "江苏-张家港",
+      "name": "张家港",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20073",
+      "id": "20073",
+      "name_path": "江苏-江阴",
+      "name": "江阴",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20074",
+      "id": "20074",
+      "name_path": "江苏-丹阳",
+      "name": "丹阳",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20075",
+      "id": "20075",
+      "name_path": "江苏-溧阳",
+      "name": "溧阳",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20076",
+      "id": "20076",
+      "name_path": "江苏-泰兴",
+      "name": "泰兴",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20077",
+      "id": "20077",
+      "name_path": "江苏-宜兴",
+      "name": "宜兴",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20078",
+      "id": "20078",
+      "name_path": "江苏-靖江",
+      "name": "靖江",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20079",
+      "id": "20079",
+      "name_path": "江苏-句容",
+      "name": "句容",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20080",
+      "id": "20080",
+      "name_path": "江苏-如皋",
+      "name": "如皋",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20081",
+      "id": "20081",
+      "name_path": "江苏-扬中",
+      "name": "扬中",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20082",
+      "id": "20082",
+      "name_path": "江苏-高邮",
+      "name": "高邮",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20083",
+      "id": "20083",
+      "name_path": "江苏-启东",
+      "name": "启东",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20084",
+      "id": "20084",
+      "name_path": "江苏-盱眙",
+      "name": "盱眙",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20085",
+      "id": "20085",
+      "name_path": "江苏-通州",
+      "name": "通州",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20002.20086",
+      "id": "20086",
+      "name_path": "江苏-金湖",
+      "name": "金湖",
+      "pid": "20002",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20087",
+      "id": "20087",
+      "name_path": "浙江-杭州",
+      "name": "杭州",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20088",
+      "id": "20088",
+      "name_path": "浙江-宁波",
+      "name": "宁波",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20089",
+      "id": "20089",
+      "name_path": "浙江-温州",
+      "name": "温州",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20090",
+      "id": "20090",
+      "name_path": "浙江-绍兴",
+      "name": "绍兴",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20091",
+      "id": "20091",
+      "name_path": "浙江-金华",
+      "name": "金华",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20092",
+      "id": "20092",
+      "name_path": "浙江-台州",
+      "name": "台州",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20093",
+      "id": "20093",
+      "name_path": "浙江-湖州",
+      "name": "湖州",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20094",
+      "id": "20094",
+      "name_path": "浙江-嘉兴",
+      "name": "嘉兴",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20095",
+      "id": "20095",
+      "name_path": "浙江-衢州",
+      "name": "衢州",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20096",
+      "id": "20096",
+      "name_path": "浙江-丽水",
+      "name": "丽水",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20097",
+      "id": "20097",
+      "name_path": "浙江-舟山",
+      "name": "舟山",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20098",
+      "id": "20098",
+      "name_path": "浙江-义乌",
+      "name": "义乌",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20099",
+      "id": "20099",
+      "name_path": "浙江-海宁",
+      "name": "海宁",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20100",
+      "id": "20100",
+      "name_path": "浙江-玉环县",
+      "name": "玉环县",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20101",
+      "id": "20101",
+      "name_path": "浙江-平湖",
+      "name": "平湖",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20102",
+      "id": "20102",
+      "name_path": "浙江-永康",
+      "name": "永康",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20103",
+      "id": "20103",
+      "name_path": "浙江-东阳",
+      "name": "东阳",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20104",
+      "id": "20104",
+      "name_path": "浙江-嘉善",
+      "name": "嘉善",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20105",
+      "id": "20105",
+      "name_path": "浙江-余姚",
+      "name": "余姚",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20106",
+      "id": "20106",
+      "name_path": "浙江-慈溪",
+      "name": "慈溪",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20107",
+      "id": "20107",
+      "name_path": "浙江-乐清",
+      "name": "乐清",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20108",
+      "id": "20108",
+      "name_path": "浙江-永嘉",
+      "name": "永嘉",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20109",
+      "id": "20109",
+      "name_path": "浙江-桐乡",
+      "name": "桐乡",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20110",
+      "id": "20110",
+      "name_path": "浙江-瑞安",
+      "name": "瑞安",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20111",
+      "id": "20111",
+      "name_path": "浙江-温岭",
+      "name": "温岭",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20112",
+      "id": "20112",
+      "name_path": "浙江-上虞",
+      "name": "上虞",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20113",
+      "id": "20113",
+      "name_path": "浙江-诸暨",
+      "name": "诸暨",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20114",
+      "id": "20114",
+      "name_path": "浙江-宁海",
+      "name": "宁海",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20115",
+      "id": "20115",
+      "name_path": "浙江-三门",
+      "name": "三门",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20116",
+      "id": "20116",
+      "name_path": "浙江-德清",
+      "name": "德清",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20117",
+      "id": "20117",
+      "name_path": "浙江-象山",
+      "name": "象山",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20118",
+      "id": "20118",
+      "name_path": "浙江-方家山",
+      "name": "方家山",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20003.20119",
+      "id": "20119",
+      "name_path": "浙江-龙泉",
+      "name": "龙泉",
+      "pid": "20003",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20120",
+      "id": "20120",
+      "name_path": "安徽-合肥",
+      "name": "合肥",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20121",
+      "id": "20121",
+      "name_path": "安徽-安庆",
+      "name": "安庆",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20122",
+      "id": "20122",
+      "name_path": "安徽-蚌埠",
+      "name": "蚌埠",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20123",
+      "id": "20123",
+      "name_path": "安徽-芜湖",
+      "name": "芜湖",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20124",
+      "id": "20124",
+      "name_path": "安徽-淮南",
+      "name": "淮南",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20125",
+      "id": "20125",
+      "name_path": "安徽-马鞍山",
+      "name": "马鞍山",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20126",
+      "id": "20126",
+      "name_path": "安徽-淮北",
+      "name": "淮北",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20127",
+      "id": "20127",
+      "name_path": "安徽-铜陵",
+      "name": "铜陵",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20128",
+      "id": "20128",
+      "name_path": "安徽-黄山",
+      "name": "黄山",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20129",
+      "id": "20129",
+      "name_path": "安徽-滁州",
+      "name": "滁州",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20130",
+      "id": "20130",
+      "name_path": "安徽-阜阳",
+      "name": "阜阳",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20131",
+      "id": "20131",
+      "name_path": "安徽-宿州",
+      "name": "宿州",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20132",
+      "id": "20132",
+      "name_path": "安徽-六安",
+      "name": "六安",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20133",
+      "id": "20133",
+      "name_path": "安徽-亳州",
+      "name": "亳州",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20134",
+      "id": "20134",
+      "name_path": "安徽-池州",
+      "name": "池州",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20135",
+      "id": "20135",
+      "name_path": "安徽-宣城",
+      "name": "宣城",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20136",
+      "id": "20136",
+      "name_path": "安徽-巢湖",
+      "name": "巢湖",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20137",
+      "id": "20137",
+      "name_path": "安徽-凤阳",
+      "name": "凤阳",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20138",
+      "id": "20138",
+      "name_path": "安徽-广德",
+      "name": "广德",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20004.20139",
+      "id": "20139",
+      "name_path": "安徽-宿松",
+      "name": "宿松",
+      "pid": "20004",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20140",
+      "id": "20140",
+      "name_path": "福建-福州",
+      "name": "福州",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20141",
+      "id": "20141",
+      "name_path": "福建-泉州",
+      "name": "泉州",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20142",
+      "id": "20142",
+      "name_path": "福建-厦门",
+      "name": "厦门",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20143",
+      "id": "20143",
+      "name_path": "福建-漳州",
+      "name": "漳州",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20144",
+      "id": "20144",
+      "name_path": "福建-莆田",
+      "name": "莆田",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20145",
+      "id": "20145",
+      "name_path": "福建-三明",
+      "name": "三明",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20146",
+      "id": "20146",
+      "name_path": "福建-南平",
+      "name": "南平",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20147",
+      "id": "20147",
+      "name_path": "福建-龙岩",
+      "name": "龙岩",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20148",
+      "id": "20148",
+      "name_path": "福建-宁德",
+      "name": "宁德",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20149",
+      "id": "20149",
+      "name_path": "福建-泉港区",
+      "name": "泉港区",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20150",
+      "id": "20150",
+      "name_path": "福建-福安",
+      "name": "福安",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20005.20151",
+      "id": "20151",
+      "name_path": "福建-晋江",
+      "name": "晋江",
+      "pid": "20005",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20152",
+      "id": "20152",
+      "name_path": "甘肃-兰州",
+      "name": "兰州",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20153",
+      "id": "20153",
+      "name_path": "甘肃-嘉峪关",
+      "name": "嘉峪关",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20154",
+      "id": "20154",
+      "name_path": "甘肃-酒泉",
+      "name": "酒泉",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20155",
+      "id": "20155",
+      "name_path": "甘肃-金昌",
+      "name": "金昌",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20156",
+      "id": "20156",
+      "name_path": "甘肃-白银",
+      "name": "白银",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20157",
+      "id": "20157",
+      "name_path": "甘肃-天水",
+      "name": "天水",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20158",
+      "id": "20158",
+      "name_path": "甘肃-张掖",
+      "name": "张掖",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20159",
+      "id": "20159",
+      "name_path": "甘肃-武威",
+      "name": "武威",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20160",
+      "id": "20160",
+      "name_path": "甘肃-定西",
+      "name": "定西",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20161",
+      "id": "20161",
+      "name_path": "甘肃-陇南",
+      "name": "陇南",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20162",
+      "id": "20162",
+      "name_path": "甘肃-平凉",
+      "name": "平凉",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20163",
+      "id": "20163",
+      "name_path": "甘肃-庆阳",
+      "name": "庆阳",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20164",
+      "id": "20164",
+      "name_path": "甘肃-临夏",
+      "name": "临夏",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20006.20165",
+      "id": "20165",
+      "name_path": "甘肃-甘南",
+      "name": "甘南",
+      "pid": "20006",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20166",
+      "id": "20166",
+      "name_path": "广西-南宁",
+      "name": "南宁",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20167",
+      "id": "20167",
+      "name_path": "广西-北海",
+      "name": "北海",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20168",
+      "id": "20168",
+      "name_path": "广西-桂林",
+      "name": "桂林",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20169",
+      "id": "20169",
+      "name_path": "广西-柳州",
+      "name": "柳州",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20170",
+      "id": "20170",
+      "name_path": "广西-玉林",
+      "name": "玉林",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20171",
+      "id": "20171",
+      "name_path": "广西-梧州",
+      "name": "梧州",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20172",
+      "id": "20172",
+      "name_path": "广西-崇左",
+      "name": "崇左",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20173",
+      "id": "20173",
+      "name_path": "广西-来宾",
+      "name": "来宾",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20174",
+      "id": "20174",
+      "name_path": "广西-防城港",
+      "name": "防城港",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20175",
+      "id": "20175",
+      "name_path": "广西-百色",
+      "name": "百色",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20176",
+      "id": "20176",
+      "name_path": "广西-钦州",
+      "name": "钦州",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20177",
+      "id": "20177",
+      "name_path": "广西-贺州",
+      "name": "贺州",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20178",
+      "id": "20178",
+      "name_path": "广西-河池",
+      "name": "河池",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20007.20179",
+      "id": "20179",
+      "name_path": "广西-贵港",
+      "name": "贵港",
+      "pid": "20007",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20180",
+      "id": "20180",
+      "name_path": "贵州-贵阳",
+      "name": "贵阳",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20181",
+      "id": "20181",
+      "name_path": "贵州-遵义",
+      "name": "遵义",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20182",
+      "id": "20182",
+      "name_path": "贵州-六盘水",
+      "name": "六盘水",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20183",
+      "id": "20183",
+      "name_path": "贵州-安顺",
+      "name": "安顺",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20184",
+      "id": "20184",
+      "name_path": "贵州-毕节",
+      "name": "毕节",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20185",
+      "id": "20185",
+      "name_path": "贵州-铜仁",
+      "name": "铜仁",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20186",
+      "id": "20186",
+      "name_path": "贵州-黔西南",
+      "name": "黔西南",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20187",
+      "id": "20187",
+      "name_path": "贵州-黔东南",
+      "name": "黔东南",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20008.20188",
+      "id": "20188",
+      "name_path": "贵州-黔南",
+      "name": "黔南",
+      "pid": "20008",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20189",
+      "id": "20189",
+      "name_path": "海南-海口",
+      "name": "海口",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20190",
+      "id": "20190",
+      "name_path": "海南-三亚",
+      "name": "三亚",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20191",
+      "id": "20191",
+      "name_path": "海南-三沙",
+      "name": "三沙",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20192",
+      "id": "20192",
+      "name_path": "海南-文昌",
+      "name": "文昌",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20193",
+      "id": "20193",
+      "name_path": "海南-琼海",
+      "name": "琼海",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20194",
+      "id": "20194",
+      "name_path": "海南-万宁",
+      "name": "万宁",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20195",
+      "id": "20195",
+      "name_path": "海南-儋州",
+      "name": "儋州",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20196",
+      "id": "20196",
+      "name_path": "海南-东方",
+      "name": "东方",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20197",
+      "id": "20197",
+      "name_path": "海南-五指山",
+      "name": "五指山",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20198",
+      "id": "20198",
+      "name_path": "海南-定安",
+      "name": "定安",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20199",
+      "id": "20199",
+      "name_path": "海南-屯昌",
+      "name": "屯昌",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20200",
+      "id": "20200",
+      "name_path": "海南-澄迈",
+      "name": "澄迈",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20201",
+      "id": "20201",
+      "name_path": "海南-临高",
+      "name": "临高",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20202",
+      "id": "20202",
+      "name_path": "海南-琼中",
+      "name": "琼中",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20203",
+      "id": "20203",
+      "name_path": "海南-保亭",
+      "name": "保亭",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20204",
+      "id": "20204",
+      "name_path": "海南-白沙",
+      "name": "白沙",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20205",
+      "id": "20205",
+      "name_path": "海南-昌江",
+      "name": "昌江",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20206",
+      "id": "20206",
+      "name_path": "海南-乐东",
+      "name": "乐东",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20009.20207",
+      "id": "20207",
+      "name_path": "海南-陵水",
+      "name": "陵水",
+      "pid": "20009",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20208",
+      "id": "20208",
+      "name_path": "河北-石家庄",
+      "name": "石家庄",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20209",
+      "id": "20209",
+      "name_path": "河北-保定",
+      "name": "保定",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20210",
+      "id": "20210",
+      "name_path": "河北-承德",
+      "name": "承德",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20211",
+      "id": "20211",
+      "name_path": "河北-邯郸",
+      "name": "邯郸",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20212",
+      "id": "20212",
+      "name_path": "河北-廊坊",
+      "name": "廊坊",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20213",
+      "id": "20213",
+      "name_path": "河北-秦皇岛",
+      "name": "秦皇岛",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20214",
+      "id": "20214",
+      "name_path": "河北-唐山",
+      "name": "唐山",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20215",
+      "id": "20215",
+      "name_path": "河北-张家口",
+      "name": "张家口",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20216",
+      "id": "20216",
+      "name_path": "河北-邢台",
+      "name": "邢台",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20217",
+      "id": "20217",
+      "name_path": "河北-沧州",
+      "name": "沧州",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20218",
+      "id": "20218",
+      "name_path": "河北-衡水",
+      "name": "衡水",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20219",
+      "id": "20219",
+      "name_path": "河北-燕郊",
+      "name": "燕郊",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20220",
+      "id": "20220",
+      "name_path": "河北-固安",
+      "name": "固安",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20221",
+      "id": "20221",
+      "name_path": "河北-遵化",
+      "name": "遵化",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20222",
+      "id": "20222",
+      "name_path": "河北-香河",
+      "name": "香河",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20010.20223",
+      "id": "20223",
+      "name_path": "河北-三河",
+      "name": "三河",
+      "pid": "20010",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20224",
+      "id": "20224",
+      "name_path": "河南-郑州",
+      "name": "郑州",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20225",
+      "id": "20225",
+      "name_path": "河南-开封",
+      "name": "开封",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20226",
+      "id": "20226",
+      "name_path": "河南-洛阳",
+      "name": "洛阳",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20227",
+      "id": "20227",
+      "name_path": "河南-商丘",
+      "name": "商丘",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20228",
+      "id": "20228",
+      "name_path": "河南-安阳",
+      "name": "安阳",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20229",
+      "id": "20229",
+      "name_path": "河南-平顶山",
+      "name": "平顶山",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20230",
+      "id": "20230",
+      "name_path": "河南-新乡",
+      "name": "新乡",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20231",
+      "id": "20231",
+      "name_path": "河南-焦作",
+      "name": "焦作",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20232",
+      "id": "20232",
+      "name_path": "河南-濮阳",
+      "name": "濮阳",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20233",
+      "id": "20233",
+      "name_path": "河南-许昌",
+      "name": "许昌",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20234",
+      "id": "20234",
+      "name_path": "河南-漯河",
+      "name": "漯河",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20235",
+      "id": "20235",
+      "name_path": "河南-三门峡",
+      "name": "三门峡",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20236",
+      "id": "20236",
+      "name_path": "河南-鹤壁",
+      "name": "鹤壁",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20237",
+      "id": "20237",
+      "name_path": "河南-周口",
+      "name": "周口",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20238",
+      "id": "20238",
+      "name_path": "河南-驻马店",
+      "name": "驻马店",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20239",
+      "id": "20239",
+      "name_path": "河南-南阳",
+      "name": "南阳",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20240",
+      "id": "20240",
+      "name_path": "河南-信阳",
+      "name": "信阳",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20241",
+      "id": "20241",
+      "name_path": "河南-济源",
+      "name": "济源",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20242",
+      "id": "20242",
+      "name_path": "河南-西平",
+      "name": "西平",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20011.20243",
+      "id": "20243",
+      "name_path": "河南-长葛",
+      "name": "长葛",
+      "pid": "20011",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20244",
+      "id": "20244",
+      "name_path": "黑龙江-哈尔滨",
+      "name": "哈尔滨",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20245",
+      "id": "20245",
+      "name_path": "黑龙江-大庆",
+      "name": "大庆",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20246",
+      "id": "20246",
+      "name_path": "黑龙江-佳木斯",
+      "name": "佳木斯",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20247",
+      "id": "20247",
+      "name_path": "黑龙江-牡丹江",
+      "name": "牡丹江",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20248",
+      "id": "20248",
+      "name_path": "黑龙江-齐齐哈尔",
+      "name": "齐齐哈尔",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20249",
+      "id": "20249",
+      "name_path": "黑龙江-鸡西",
+      "name": "鸡西",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20250",
+      "id": "20250",
+      "name_path": "黑龙江-鹤岗",
+      "name": "鹤岗",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20251",
+      "id": "20251",
+      "name_path": "黑龙江-双鸭山",
+      "name": "双鸭山",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20252",
+      "id": "20252",
+      "name_path": "黑龙江-伊春",
+      "name": "伊春",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20253",
+      "id": "20253",
+      "name_path": "黑龙江-七台河",
+      "name": "七台河",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20254",
+      "id": "20254",
+      "name_path": "黑龙江-黑河",
+      "name": "黑河",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20255",
+      "id": "20255",
+      "name_path": "黑龙江-绥化",
+      "name": "绥化",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20256",
+      "id": "20256",
+      "name_path": "黑龙江-大兴安岭",
+      "name": "大兴安岭",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20257",
+      "id": "20257",
+      "name_path": "黑龙江-安达",
+      "name": "安达",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20258",
+      "id": "20258",
+      "name_path": "黑龙江-双城",
+      "name": "双城",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20259",
+      "id": "20259",
+      "name_path": "黑龙江-尚志",
+      "name": "尚志",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20260",
+      "id": "20260",
+      "name_path": "黑龙江-绥芬河",
+      "name": "绥芬河",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20012.20261",
+      "id": "20261",
+      "name_path": "黑龙江-肇东",
+      "name": "肇东",
+      "pid": "20012",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20262",
+      "id": "20262",
+      "name_path": "湖北-武汉",
+      "name": "武汉",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20263",
+      "id": "20263",
+      "name_path": "湖北-十堰",
+      "name": "十堰",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20264",
+      "id": "20264",
+      "name_path": "湖北-襄阳",
+      "name": "襄阳",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20265",
+      "id": "20265",
+      "name_path": "湖北-宜昌",
+      "name": "宜昌",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20266",
+      "id": "20266",
+      "name_path": "湖北-潜江",
+      "name": "潜江",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20267",
+      "id": "20267",
+      "name_path": "湖北-荆门",
+      "name": "荆门",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20268",
+      "id": "20268",
+      "name_path": "湖北-荆州",
+      "name": "荆州",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20269",
+      "id": "20269",
+      "name_path": "湖北-黄石",
+      "name": "黄石",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20270",
+      "id": "20270",
+      "name_path": "湖北-鄂州",
+      "name": "鄂州",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20271",
+      "id": "20271",
+      "name_path": "湖北-黄冈",
+      "name": "黄冈",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20272",
+      "id": "20272",
+      "name_path": "湖北-孝感",
+      "name": "孝感",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20273",
+      "id": "20273",
+      "name_path": "湖北-咸宁",
+      "name": "咸宁",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20274",
+      "id": "20274",
+      "name_path": "湖北-随州",
+      "name": "随州",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20275",
+      "id": "20275",
+      "name_path": "湖北-仙桃",
+      "name": "仙桃",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20276",
+      "id": "20276",
+      "name_path": "湖北-天门",
+      "name": "天门",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20277",
+      "id": "20277",
+      "name_path": "湖北-神农架",
+      "name": "神农架",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20278",
+      "id": "20278",
+      "name_path": "湖北-恩施",
+      "name": "恩施",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20279",
+      "id": "20279",
+      "name_path": "湖北-公安",
+      "name": "公安",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20280",
+      "id": "20280",
+      "name_path": "湖北-武穴",
+      "name": "武穴",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20013.20281",
+      "id": "20281",
+      "name_path": "湖北-宜城",
+      "name": "宜城",
+      "pid": "20013",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20282",
+      "id": "20282",
+      "name_path": "湖南-长沙",
+      "name": "长沙",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20283",
+      "id": "20283",
+      "name_path": "湖南-湘潭",
+      "name": "湘潭",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20284",
+      "id": "20284",
+      "name_path": "湖南-株洲",
+      "name": "株洲",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20285",
+      "id": "20285",
+      "name_path": "湖南-常德",
+      "name": "常德",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20286",
+      "id": "20286",
+      "name_path": "湖南-衡阳",
+      "name": "衡阳",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20287",
+      "id": "20287",
+      "name_path": "湖南-益阳",
+      "name": "益阳",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20288",
+      "id": "20288",
+      "name_path": "湖南-郴州",
+      "name": "郴州",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20289",
+      "id": "20289",
+      "name_path": "湖南-岳阳",
+      "name": "岳阳",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20290",
+      "id": "20290",
+      "name_path": "湖南-邵阳",
+      "name": "邵阳",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20291",
+      "id": "20291",
+      "name_path": "湖南-张家界",
+      "name": "张家界",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20292",
+      "id": "20292",
+      "name_path": "湖南-娄底",
+      "name": "娄底",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20293",
+      "id": "20293",
+      "name_path": "湖南-永州",
+      "name": "永州",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20294",
+      "id": "20294",
+      "name_path": "湖南-怀化",
+      "name": "怀化",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20014.20295",
+      "id": "20295",
+      "name_path": "湖南-湘西",
+      "name": "湘西",
+      "pid": "20014",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20296",
+      "id": "20296",
+      "name_path": "吉林-长春",
+      "name": "长春",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20297",
+      "id": "20297",
+      "name_path": "吉林-吉林市",
+      "name": "吉林市",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20298",
+      "id": "20298",
+      "name_path": "吉林-四平",
+      "name": "四平",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20299",
+      "id": "20299",
+      "name_path": "吉林-辽源",
+      "name": "辽源",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20300",
+      "id": "20300",
+      "name_path": "吉林-通化",
+      "name": "通化",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20301",
+      "id": "20301",
+      "name_path": "吉林-白山",
+      "name": "白山",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20302",
+      "id": "20302",
+      "name_path": "吉林-松原",
+      "name": "松原",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20303",
+      "id": "20303",
+      "name_path": "吉林-白城",
+      "name": "白城",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20304",
+      "id": "20304",
+      "name_path": "吉林-延吉",
+      "name": "延吉",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20305",
+      "id": "20305",
+      "name_path": "吉林-延边",
+      "name": "延边",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20015.20306",
+      "id": "20306",
+      "name_path": "吉林-公主岭",
+      "name": "公主岭",
+      "pid": "20015",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20307",
+      "id": "20307",
+      "name_path": "江西-南昌",
+      "name": "南昌",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20308",
+      "id": "20308",
+      "name_path": "江西-九江",
+      "name": "九江",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20309",
+      "id": "20309",
+      "name_path": "江西-赣州",
+      "name": "赣州",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20310",
+      "id": "20310",
+      "name_path": "江西-宜春",
+      "name": "宜春",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20311",
+      "id": "20311",
+      "name_path": "江西-吉安",
+      "name": "吉安",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20312",
+      "id": "20312",
+      "name_path": "江西-上饶",
+      "name": "上饶",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20313",
+      "id": "20313",
+      "name_path": "江西-抚州",
+      "name": "抚州",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20314",
+      "id": "20314",
+      "name_path": "江西-景德镇",
+      "name": "景德镇",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20315",
+      "id": "20315",
+      "name_path": "江西-萍乡",
+      "name": "萍乡",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20316",
+      "id": "20316",
+      "name_path": "江西-新余",
+      "name": "新余",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20016.20317",
+      "id": "20317",
+      "name_path": "江西-鹰潭",
+      "name": "鹰潭",
+      "pid": "20016",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20318",
+      "id": "20318",
+      "name_path": "辽宁-沈阳",
+      "name": "沈阳",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20319",
+      "id": "20319",
+      "name_path": "辽宁-鞍山",
+      "name": "鞍山",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20320",
+      "id": "20320",
+      "name_path": "辽宁-大连",
+      "name": "大连",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20321",
+      "id": "20321",
+      "name_path": "辽宁-葫芦岛",
+      "name": "葫芦岛",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20322",
+      "id": "20322",
+      "name_path": "辽宁-抚顺",
+      "name": "抚顺",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20323",
+      "id": "20323",
+      "name_path": "辽宁-本溪",
+      "name": "本溪",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20324",
+      "id": "20324",
+      "name_path": "辽宁-丹东",
+      "name": "丹东",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20325",
+      "id": "20325",
+      "name_path": "辽宁-锦州",
+      "name": "锦州",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20326",
+      "id": "20326",
+      "name_path": "辽宁-营口",
+      "name": "营口",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20327",
+      "id": "20327",
+      "name_path": "辽宁-阜新",
+      "name": "阜新",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20328",
+      "id": "20328",
+      "name_path": "辽宁-辽阳",
+      "name": "辽阳",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20329",
+      "id": "20329",
+      "name_path": "辽宁-盘锦",
+      "name": "盘锦",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20330",
+      "id": "20330",
+      "name_path": "辽宁-铁岭",
+      "name": "铁岭",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20331",
+      "id": "20331",
+      "name_path": "辽宁-朝阳",
+      "name": "朝阳",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20332",
+      "id": "20332",
+      "name_path": "辽宁-兴城",
+      "name": "兴城",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20333",
+      "id": "20333",
+      "name_path": "辽宁-海城",
+      "name": "海城",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20334",
+      "id": "20334",
+      "name_path": "辽宁-昌图",
+      "name": "昌图",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20017.20335",
+      "id": "20335",
+      "name_path": "辽宁-开原",
+      "name": "开原",
+      "pid": "20017",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20336",
+      "id": "20336",
+      "name_path": "内蒙古-呼和浩特",
+      "name": "呼和浩特",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20337",
+      "id": "20337",
+      "name_path": "内蒙古-包头",
+      "name": "包头",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20338",
+      "id": "20338",
+      "name_path": "内蒙古-赤峰",
+      "name": "赤峰",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20339",
+      "id": "20339",
+      "name_path": "内蒙古-鄂尔多斯",
+      "name": "鄂尔多斯",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20340",
+      "id": "20340",
+      "name_path": "内蒙古-乌海",
+      "name": "乌海",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20341",
+      "id": "20341",
+      "name_path": "内蒙古-通辽",
+      "name": "通辽",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20342",
+      "id": "20342",
+      "name_path": "内蒙古-呼伦贝尔",
+      "name": "呼伦贝尔",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20343",
+      "id": "20343",
+      "name_path": "内蒙古-巴彦淖尔",
+      "name": "巴彦淖尔",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20344",
+      "id": "20344",
+      "name_path": "内蒙古-乌兰察布",
+      "name": "乌兰察布",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20345",
+      "id": "20345",
+      "name_path": "内蒙古-兴安盟",
+      "name": "兴安盟",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20346",
+      "id": "20346",
+      "name_path": "内蒙古-乌审旗",
+      "name": "乌审旗",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20018.20347",
+      "id": "20347",
+      "name_path": "内蒙古-满洲里",
+      "name": "满洲里",
+      "pid": "20018",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20019.20348",
+      "id": "20348",
+      "name_path": "宁夏-银川",
+      "name": "银川",
+      "pid": "20019",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20019.20349",
+      "id": "20349",
+      "name_path": "宁夏-石嘴山",
+      "name": "石嘴山",
+      "pid": "20019",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20019.20350",
+      "id": "20350",
+      "name_path": "宁夏-吴忠",
+      "name": "吴忠",
+      "pid": "20019",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20019.20351",
+      "id": "20351",
+      "name_path": "宁夏-固原",
+      "name": "固原",
+      "pid": "20019",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20019.20352",
+      "id": "20352",
+      "name_path": "宁夏-中卫",
+      "name": "中卫",
+      "pid": "20019",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20353",
+      "id": "20353",
+      "name_path": "青海-西宁",
+      "name": "西宁",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20354",
+      "id": "20354",
+      "name_path": "青海-海东",
+      "name": "海东",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20355",
+      "id": "20355",
+      "name_path": "青海-海西",
+      "name": "海西",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20356",
+      "id": "20356",
+      "name_path": "青海-海北",
+      "name": "海北",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20357",
+      "id": "20357",
+      "name_path": "青海-黄南",
+      "name": "黄南",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20358",
+      "id": "20358",
+      "name_path": "青海-海南",
+      "name": "海南",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20359",
+      "id": "20359",
+      "name_path": "青海-果洛",
+      "name": "果洛",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20020.20360",
+      "id": "20360",
+      "name_path": "青海-玉树",
+      "name": "玉树",
+      "pid": "20020",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20361",
+      "id": "20361",
+      "name_path": "山东-济南",
+      "name": "济南",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20362",
+      "id": "20362",
+      "name_path": "山东-德州",
+      "name": "德州",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20363",
+      "id": "20363",
+      "name_path": "山东-东营",
+      "name": "东营",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20364",
+      "id": "20364",
+      "name_path": "山东-济宁",
+      "name": "济宁",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20365",
+      "id": "20365",
+      "name_path": "山东-临沂",
+      "name": "临沂",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20366",
+      "id": "20366",
+      "name_path": "山东-青岛",
+      "name": "青岛",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20367",
+      "id": "20367",
+      "name_path": "山东-日照",
+      "name": "日照",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20368",
+      "id": "20368",
+      "name_path": "山东-泰安",
+      "name": "泰安",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20369",
+      "id": "20369",
+      "name_path": "山东-威海",
+      "name": "威海",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20370",
+      "id": "20370",
+      "name_path": "山东-潍坊",
+      "name": "潍坊",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20371",
+      "id": "20371",
+      "name_path": "山东-烟台",
+      "name": "烟台",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20372",
+      "id": "20372",
+      "name_path": "山东-淄博",
+      "name": "淄博",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20373",
+      "id": "20373",
+      "name_path": "山东-枣庄",
+      "name": "枣庄",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20374",
+      "id": "20374",
+      "name_path": "山东-滨州",
+      "name": "滨州",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20375",
+      "id": "20375",
+      "name_path": "山东-聊城",
+      "name": "聊城",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20376",
+      "id": "20376",
+      "name_path": "山东-菏泽",
+      "name": "菏泽",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20377",
+      "id": "20377",
+      "name_path": "山东-莱芜",
+      "name": "莱芜",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20378",
+      "id": "20378",
+      "name_path": "山东-荣成",
+      "name": "荣成",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20379",
+      "id": "20379",
+      "name_path": "山东-黄岛",
+      "name": "黄岛",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20380",
+      "id": "20380",
+      "name_path": "山东-乳山",
+      "name": "乳山",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20381",
+      "id": "20381",
+      "name_path": "山东-城阳",
+      "name": "城阳",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20382",
+      "id": "20382",
+      "name_path": "山东-即墨",
+      "name": "即墨",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20383",
+      "id": "20383",
+      "name_path": "山东-肥城",
+      "name": "肥城",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20384",
+      "id": "20384",
+      "name_path": "山东-兖州",
+      "name": "兖州",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20385",
+      "id": "20385",
+      "name_path": "山东-海阳",
+      "name": "海阳",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20386",
+      "id": "20386",
+      "name_path": "山东-胶州",
+      "name": "胶州",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20387",
+      "id": "20387",
+      "name_path": "山东-胶南",
+      "name": "胶南",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20388",
+      "id": "20388",
+      "name_path": "山东-平度",
+      "name": "平度",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20021.20389",
+      "id": "20389",
+      "name_path": "山东-莱西",
+      "name": "莱西",
+      "pid": "20021",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20390",
+      "id": "20390",
+      "name_path": "山西-太原",
+      "name": "太原",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20391",
+      "id": "20391",
+      "name_path": "山西-大同",
+      "name": "大同",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20392",
+      "id": "20392",
+      "name_path": "山西-临汾",
+      "name": "临汾",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20393",
+      "id": "20393",
+      "name_path": "山西-运城",
+      "name": "运城",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20394",
+      "id": "20394",
+      "name_path": "山西-长治",
+      "name": "长治",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20395",
+      "id": "20395",
+      "name_path": "山西-阳泉",
+      "name": "阳泉",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20396",
+      "id": "20396",
+      "name_path": "山西-晋城",
+      "name": "晋城",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20397",
+      "id": "20397",
+      "name_path": "山西-朔州",
+      "name": "朔州",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20398",
+      "id": "20398",
+      "name_path": "山西-晋中",
+      "name": "晋中",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20399",
+      "id": "20399",
+      "name_path": "山西-忻州",
+      "name": "忻州",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20400",
+      "id": "20400",
+      "name_path": "山西-吕梁",
+      "name": "吕梁",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20401",
+      "id": "20401",
+      "name_path": "山西-永济",
+      "name": "永济",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20022.20402",
+      "id": "20402",
+      "name_path": "山西-和顺",
+      "name": "和顺",
+      "pid": "20022",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20403",
+      "id": "20403",
+      "name_path": "陕西-西安",
+      "name": "西安",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20404",
+      "id": "20404",
+      "name_path": "陕西-宝鸡",
+      "name": "宝鸡",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20405",
+      "id": "20405",
+      "name_path": "陕西-咸阳",
+      "name": "咸阳",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20406",
+      "id": "20406",
+      "name_path": "陕西-铜川",
+      "name": "铜川",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20407",
+      "id": "20407",
+      "name_path": "陕西-渭南",
+      "name": "渭南",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20408",
+      "id": "20408",
+      "name_path": "陕西-汉中",
+      "name": "汉中",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20409",
+      "id": "20409",
+      "name_path": "陕西-安康",
+      "name": "安康",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20410",
+      "id": "20410",
+      "name_path": "陕西-商洛",
+      "name": "商洛",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20411",
+      "id": "20411",
+      "name_path": "陕西-延安",
+      "name": "延安",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20412",
+      "id": "20412",
+      "name_path": "陕西-榆林",
+      "name": "榆林",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20413",
+      "id": "20413",
+      "name_path": "陕西-杨凌",
+      "name": "杨凌",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20023.20414",
+      "id": "20414",
+      "name_path": "陕西-兴平",
+      "name": "兴平",
+      "pid": "20023",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20415",
+      "id": "20415",
+      "name_path": "四川-成都",
+      "name": "成都",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20416",
+      "id": "20416",
+      "name_path": "四川-乐山",
+      "name": "乐山",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20417",
+      "id": "20417",
+      "name_path": "四川-泸州",
+      "name": "泸州",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20418",
+      "id": "20418",
+      "name_path": "四川-绵阳",
+      "name": "绵阳",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20419",
+      "id": "20419",
+      "name_path": "四川-内江",
+      "name": "内江",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20420",
+      "id": "20420",
+      "name_path": "四川-宜宾",
+      "name": "宜宾",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20421",
+      "id": "20421",
+      "name_path": "四川-自贡",
+      "name": "自贡",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20422",
+      "id": "20422",
+      "name_path": "四川-攀枝花",
+      "name": "攀枝花",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20423",
+      "id": "20423",
+      "name_path": "四川-德阳",
+      "name": "德阳",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20424",
+      "id": "20424",
+      "name_path": "四川-广元",
+      "name": "广元",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20425",
+      "id": "20425",
+      "name_path": "四川-遂宁",
+      "name": "遂宁",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20426",
+      "id": "20426",
+      "name_path": "四川-南充",
+      "name": "南充",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20427",
+      "id": "20427",
+      "name_path": "四川-眉山",
+      "name": "眉山",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20428",
+      "id": "20428",
+      "name_path": "四川-广安",
+      "name": "广安",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20429",
+      "id": "20429",
+      "name_path": "四川-达州",
+      "name": "达州",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20430",
+      "id": "20430",
+      "name_path": "四川-雅安",
+      "name": "雅安",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20431",
+      "id": "20431",
+      "name_path": "四川-巴中",
+      "name": "巴中",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20432",
+      "id": "20432",
+      "name_path": "四川-资阳",
+      "name": "资阳",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20433",
+      "id": "20433",
+      "name_path": "四川-西昌",
+      "name": "西昌",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20434",
+      "id": "20434",
+      "name_path": "四川-甘孜",
+      "name": "甘孜",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20435",
+      "id": "20435",
+      "name_path": "四川-阿坝",
+      "name": "阿坝",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20436",
+      "id": "20436",
+      "name_path": "四川-凉山",
+      "name": "凉山",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20437",
+      "id": "20437",
+      "name_path": "四川-峨眉",
+      "name": "峨眉",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20024.20438",
+      "id": "20438",
+      "name_path": "四川-简阳",
+      "name": "简阳",
+      "pid": "20024",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025.20439",
+      "id": "20439",
+      "name_path": "西藏-拉萨",
+      "name": "拉萨",
+      "pid": "20025",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025.20440",
+      "id": "20440",
+      "name_path": "西藏-日喀则",
+      "name": "日喀则",
+      "pid": "20025",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025.20441",
+      "id": "20441",
+      "name_path": "西藏-林芝",
+      "name": "林芝",
+      "pid": "20025",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025.20442",
+      "id": "20442",
+      "name_path": "西藏-山南",
+      "name": "山南",
+      "pid": "20025",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025.20443",
+      "id": "20443",
+      "name_path": "西藏-昌都",
+      "name": "昌都",
+      "pid": "20025",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025.20444",
+      "id": "20444",
+      "name_path": "西藏-那曲",
+      "name": "那曲",
+      "pid": "20025",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20025.20445",
+      "id": "20445",
+      "name_path": "西藏-阿里",
+      "name": "阿里",
+      "pid": "20025",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20446",
+      "id": "20446",
+      "name_path": "新疆-乌鲁木齐",
+      "name": "乌鲁木齐",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20447",
+      "id": "20447",
+      "name_path": "新疆-喀什",
+      "name": "喀什",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20448",
+      "id": "20448",
+      "name_path": "新疆-克拉玛依",
+      "name": "克拉玛依",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20449",
+      "id": "20449",
+      "name_path": "新疆-伊犁",
+      "name": "伊犁",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20450",
+      "id": "20450",
+      "name_path": "新疆-阿克苏",
+      "name": "阿克苏",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20451",
+      "id": "20451",
+      "name_path": "新疆-哈密",
+      "name": "哈密",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20452",
+      "id": "20452",
+      "name_path": "新疆-石河子",
+      "name": "石河子",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20453",
+      "id": "20453",
+      "name_path": "新疆-阿拉尔",
+      "name": "阿拉尔",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20454",
+      "id": "20454",
+      "name_path": "新疆-五家渠",
+      "name": "五家渠",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20455",
+      "id": "20455",
+      "name_path": "新疆-图木舒克",
+      "name": "图木舒克",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20456",
+      "id": "20456",
+      "name_path": "新疆-昌吉",
+      "name": "昌吉",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20457",
+      "id": "20457",
+      "name_path": "新疆-阿勒泰",
+      "name": "阿勒泰",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20458",
+      "id": "20458",
+      "name_path": "新疆-吐鲁番",
+      "name": "吐鲁番",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20459",
+      "id": "20459",
+      "name_path": "新疆-塔城",
+      "name": "塔城",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20460",
+      "id": "20460",
+      "name_path": "新疆-和田",
+      "name": "和田",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20461",
+      "id": "20461",
+      "name_path": "新疆-巴音郭楞",
+      "name": "巴音郭楞",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20462",
+      "id": "20462",
+      "name_path": "新疆-博尔塔拉",
+      "name": "博尔塔拉",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20463",
+      "id": "20463",
+      "name_path": "新疆-奎屯市",
+      "name": "奎屯市",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20464",
+      "id": "20464",
+      "name_path": "新疆-乌苏",
+      "name": "乌苏",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20026.20465",
+      "id": "20465",
+      "name_path": "新疆-克州",
+      "name": "克州",
+      "pid": "20026",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20466",
+      "id": "20466",
+      "name_path": "云南-昆明",
+      "name": "昆明",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20467",
+      "id": "20467",
+      "name_path": "云南-大理",
+      "name": "大理",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20468",
+      "id": "20468",
+      "name_path": "云南-丽江",
+      "name": "丽江",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20469",
+      "id": "20469",
+      "name_path": "云南-玉溪",
+      "name": "玉溪",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20470",
+      "id": "20470",
+      "name_path": "云南-曲靖",
+      "name": "曲靖",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20471",
+      "id": "20471",
+      "name_path": "云南-保山",
+      "name": "保山",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20472",
+      "id": "20472",
+      "name_path": "云南-昭通",
+      "name": "昭通",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20473",
+      "id": "20473",
+      "name_path": "云南-普洱",
+      "name": "普洱",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20474",
+      "id": "20474",
+      "name_path": "云南-临沧",
+      "name": "临沧",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20475",
+      "id": "20475",
+      "name_path": "云南-红河",
+      "name": "红河",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20476",
+      "id": "20476",
+      "name_path": "云南-文山",
+      "name": "文山",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20477",
+      "id": "20477",
+      "name_path": "云南-西双版纳",
+      "name": "西双版纳",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20478",
+      "id": "20478",
+      "name_path": "云南-德宏",
+      "name": "德宏",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20479",
+      "id": "20479",
+      "name_path": "云南-楚雄",
+      "name": "楚雄",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20480",
+      "id": "20480",
+      "name_path": "云南-怒江",
+      "name": "怒江",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20481",
+      "id": "20481",
+      "name_path": "云南-迪庆",
+      "name": "迪庆",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20027.20482",
+      "id": "20482",
+      "name_path": "云南-思茅",
+      "name": "思茅",
+      "pid": "20027",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20483",
+      "id": "20483",
+      "name_path": "港澳台地区",
+      "name": "港澳台地区",
+      "pid": "-1",
+      "nocheck": "true",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20483.20484",
+      "id": "20484",
+      "name_path": "港澳台地区-香港",
+      "name": "香港",
+      "pid": "20483",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20483.20485",
+      "id": "20485",
+      "name_path": "港澳台地区-澳门",
+      "name": "澳门",
+      "pid": "20483",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    },
+    {
+      "id_path": "20483.20486",
+      "id": "20486",
+      "name_path": "港澳台地区-台湾",
+      "name": "台湾",
+      "pid": "20483",
+      "nocheck": "false",
+      "checked": "false",
+      "type_id": "1"
+    }
+  ],
+  "status":"success"
+}
